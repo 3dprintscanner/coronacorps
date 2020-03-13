@@ -51,7 +51,7 @@ body {
     ;
 }
 
-button {
+.button {
     padding: 0.4em;
     border-radius: 0.2em;
     font-weight: 600;
@@ -223,4 +223,10 @@ footer {
     }
 }
 
-;
+.form-input {
+    margin: 0.1em;
+    padding: 0.3em;
+    border-style: solid;
+    border-radius: 0.5em;
+    border-color: lightgray;
+}

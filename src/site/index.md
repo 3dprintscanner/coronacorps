@@ -21,54 +21,57 @@ layout: layouts/base.njk
  - Sign up for the Volunteering form below and we will in contact with you shortly.
  - Share this with any friends or colleagues who would also be able to help
 
-## Volunteer
+## Sign Up
 <div class="form-card">
   <form name="volunteer" method="POST" data-netlify="true">
     <p>
-      <label>Your First Name: <input type="text" name="firstname" /></label>   
+      <label>Your First Name: <input type="text" name="firstname" class="form-input" /></label>   
     </p>
     <p>
-      <label>Your Last Name: <input type="text" name="lastname" /></label>   
+      <label>Your Last Name: <input type="text" name="lastname" class="form-input" /></label>   
     </p>
     <p>
-      <label>Your Email: <input type="email" name="email" /></label>
+      <label>Your Email: <input type="email" name="email" class="form-input" /></label>
     </p>
     <p>
-      <label>House Name / Flat Number: <input type="text" name="house" /></label>
+      <label>House Name / Flat Number: <input type="text" name="house" class="form-input" /></label>
     </p>
     <p>
-      <label>Street: <input type="text" name="street" /></label>
+      <label>Street: <input type="text" name="street" class="form-input" /></label>
     </p>
     <p>
-      <label>City: <input type="text" name="city" /></label>
+      <label>City: <input type="text" name="city" class="form-input" /></label>
     </p>
     <p>
-      <label>County: <input type="text" name="county" /></label>
+      <label>County: <input type="text" name="county" class="form-input" /></label>
     </p>
     <p>
-      <label>Postcode: <input type="text" name="postcode" /></label>
+      <label>Postcode: <input type="text" name="postcode" class="form-input" /></label>
     </p>
     <p>
-      <label>Your Contact Number: <input type="tel" name="contact" /></label>
+      <label>Your Contact Number: <input type="tel" name="contact" class="form-input" /></label>
     </p>
     <p>
-      <input type="checkbox" id="vehicle" name="vehicle" value="Vehicle">
+      <input type="checkbox" id="vehicle" name="vehicle" value="Vehicle" class="form-input">
       <label for="vehicle"> I have access to a Vehicle</label>
       <br>
-      <input type="checkbox" id="infected" name="infected" value="infected">
+      <input type="checkbox" id="infected" name="infected" value="infected" class="form-input">
       <label for="infected"> I have already been infected and recovered from COVID-19</label>
       <br>
-      <input type="checkbox" id="dbs" name="dbs" value="dbs">
+      <input type="checkbox" id="dbs" name="dbs" value="dbs" class="form-input">
       <label for="vehicle3"> I have a valid DBS check</label>
       <br>
-      <input type="checkbox" id="condition" name="condition" value="condition">
+      <input type="checkbox" id="condition" name="condition" value="condition" class="form-input">
       <label for="vehicle3"> I have no Severe Health Conditions</label>
     </p>
     <p>
-      <label>Message: <textarea rows="4" name="message"></textarea></label>
+      <label>Message: <textarea rows="4" name="message" class="form-input"></textarea></label>
     </p>
     <p>
-      <button type="submit" class="btn-log">Send</button><button type="reset">Reset</button>
+      <div data-netlify-recaptcha="true"></div>
+    </p>
+    <p>
+      <input type="submit" class="button"></input><button type="reset" class="button">Reset</button>
     </p>
   </form>
 </div>
