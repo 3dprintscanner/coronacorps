@@ -1,53 +1,87 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: Corona Corps
+subtitle: The virus is coming and we must be best preprared to look after the vulnerable around us and prevent it spreading faster than our health services can cope.
 layout: layouts/base.njk
 ---
 
+## Who are we?
+  Corona Corps is a voluntary organisation dedicated to helping citizens organise to assist in dealing with the coronavirus epidemic.
+  Currently we are recuiting volunteers in London and collecting data on those who will require assistance.
 
-## This site is a starting point
+## We Aim to
 
-From this point we should already have:
-
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
-- A tiny CSS pipeline with PostCSS
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
-- [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
-- Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
+ - Stand up groups of volunteers to help the vunerable, ill and immuno-compromised through the course of the Pandemic.
+ - Provide deliveries of essential supplies, medications and pastoral care.
+ - Be on hand to assist local authorities when necessary
+ - Co-ordinate the distribution of aid 
 
 
+## How Can I help?
 
-## Post pages
+ - Sign up for the Volunteering form below and we will in contact with you shortly.
+ - Share this with any friends or colleagues who would also be able to help
+ -
 
-The pages found in in the posts
+## Volunteer
 
-<ul class="listing">
-{%- for page in collections.post -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a> -
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-  </li>
-{%- endfor -%}
-</ul>
+<form name="volunteer" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Address: <input type="text" name="address" /></label>
+  </p>
+  <p>
+    <label>Your Contact Number: <input type="tel" name="address" /></label>
+  </p>
+  <p>
+    <input type="checkbox" id="vehicle" name="vehicle" value="Vehicle">
+    <label for="vehicle"> I have access to a Vehicle</label><br>
+    <input type="checkbox" id="infected" name="infected" value="infected">
+    <label for="infected"> I have already been infected and recovered from COVID-19</label><br>
+    <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+    <label for="vehicle3"> I have a boat</label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+  <p>
+    <input type="reset">
+  </p>
+</form>
 
-## Links from an external data source
 
-These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
+## Request Assistance
 
-<ul class="listing">
-{%- for item in hawksworx.entries.slice(0,5) -%}
-  <li>
-    <a href="{{ item.link }}">{{ item.title }}</a>
-  </li>
-{%- endfor -%}
-</ul>
-
-
-## Prerequisite
-
-- [Node and NPM](https://nodejs.org/)
+<form name="volunteer" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Address: <input type="text" name="address" /></label>
+  </p>
+  <p>
+    <label>Your Contact Number: <input type="tel" name="address" /></label>
+  </p>
+  <p>
+    <label>Assistance Required: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+  <p>
+    <input type="reset">
+  </p>
+</form>
 
 ## Running locally
 
