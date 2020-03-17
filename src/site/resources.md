@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Resources
 layout: layouts/base.njk
 subtitle: Useful Links
 ---
@@ -31,3 +31,9 @@ subtitle: Useful Links
 ## Guidance
 - [Public Health England](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
 - [NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+
+
+## Graphics
+
+![](/images/Flyer-2xA5.jpg)
+![](/images/Poster-A4.jpg)
