@@ -18,14 +18,14 @@ layout: layouts/base.njk
 - We work within the Clerkenwell & Bunhill Wards of Islington.
 - The map above shows the extent.
 
-## How Can I help?
+## How can I help?
 
- - Click [Here](/volunteer) to register as a volunteer
+ - Click [here](/volunteer) to register as a volunteer
  - Share this site with any friends or colleagues who would also be able to help
 
-## How Can I get help?
+## How can I get help?
 
- Click [Here](/assistance) to request assistance.
+ Click [here](/assistance) to request assistance.
 
 
 ## Contact Us
