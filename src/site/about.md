@@ -1,33 +1,19 @@
 ---
-title: Get Yours
+title: About Us
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Our Principles
 ---
 
-## Hosting
+We are a group of volunteers living in the local area who want to help our community in this challenging time. We are happy to help however we can if you are in need - whether it be picking up some groceries, walking your pet or just having a chat if you need one.
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+We will never ask you to pay us for your time, and will only ever accept money from you if it is a direct payment for something we buy on your behalf (for example, if we run to the supermarket for you).
 
-<div class="nakedLink">
+In return, we ask that you respect the health, well-being and generosity of our volunteers and take particular care not to risk passing the virus on to others if you may be unwell. 
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+Please don’t give us your personal information unless you are happy for us to pass that information on to one of our volunteers.
 
-</div>
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+Please note that we:
+- Are completely volunteer based and are not associated with any government department or other company or group 
+- Are not able to help you with medical advice - please refer to the latest NHS guidance and contact emergency services if you need medical help quickly
+- Are not able to accept any liability in relation to the help you ask for or that we offer to you
+- Are ready and willing to support our community in any way we can during this time
