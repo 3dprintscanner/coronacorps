@@ -1,5 +1,5 @@
 ---
-title: Clerkenwell Volunteers
+title: Clerkenwell & Bunhill Volunteers
 subtitle: We must be best preprared to look after the vulnerable around us and prevent COVID-19 spreading faster than our health services can cope.
 layout: layouts/base.njk
 ---
@@ -9,6 +9,15 @@ layout: layouts/base.njk
   Currently we are recuiting volunteers in the Clerkenwell & Bunhill Wards of London and matching them with those that need assistance.
   More information is available [here](/about)
 
+## Where do we operate?
+
+<br/>
+<div id="map"></div>
+<br/>
+
+- We work within the Clerkenwell & Bunhill Wards of Islington.
+- The map above shows the extent.
+
 ## How Can I help?
 
  - Click [Here](/volunteer) to register as a volunteer
@@ -17,13 +26,7 @@ layout: layouts/base.njk
 ## How Can I get help?
 
  Click [Here](/assistance) to request assistance.
- 
- 
-## Sign Up to Volunteer
- Click [Here](/volunteer) to register as a volunteer
 
-## Request Assistance
-Click [Here](/assistance) to request assistance.
 
 ## Contact Us
 

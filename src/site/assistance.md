@@ -24,7 +24,7 @@ To Volunteer please fill out the form [here](/volunteer)
         <label>Your Contact Number: <input type="tel" name="contact" class="form-input" /></label>
     </p>
     <p>
-        <label>Ward of Residence: <input type="text" name="ward" class="form-input" /></label>
+        <label>Street Name: <input type="text" name="ward" class="form-input" /></label>
     </p>
         <h4>Required Assistance:</h4>
     <p>

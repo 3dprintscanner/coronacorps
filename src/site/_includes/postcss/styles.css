@@ -230,3 +230,10 @@ footer {
     border-radius: 0.5em;
     border-color: lightgray;
 }
+
+
+
+#map {
+    width: 100%;
+    min-height: 400px;
+}

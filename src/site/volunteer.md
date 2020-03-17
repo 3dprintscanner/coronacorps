@@ -24,21 +24,13 @@ For assistance please fill out the form [here](/assistance)
       <label>Your Contact Number: <input type="tel" name="contact" class="form-input" /></label>
     </p>
     <p>
-      <label>Ward of Residence: <input type="text" name="ward" class="form-input" /></label>
+      <label>Street Name: <input type="text" name="ward" class="form-input" /></label>
     </p>
     <h4>Some useful info</h4>
     <p>
       <input type="checkbox" id="vehicle" name="vehicle" value="true" class="form-input">
       <label for="vehicle"> I have access to a Vehicle 🚗</label>
       <br>      
-      <input type="checkbox" id="dbs" name="dbs" value="true" class="form-input">
-      <label for="dbs"> I have a valid DBS check ✅</label>
-      <br>
-      <input type="checkbox" id="condition" name="condition" value="true" class="form-input">
-      <label for="condition"> I have no Severe Health Conditions 🩺</label>
-      <br>
-      <input type="checkbox" id="carer" name="carer" value="true" class="form-input">
-      <label for="carer"> I am a registered carer 🤗</label>
     </p>
     <h4>Assistance I can offer</h4>
     <p>
@@ -58,7 +50,7 @@ For assistance please fill out the form [here](/assistance)
       <label for="supplies"> Dog Walking / Animal Care 🐕</label>
     </p>
     <p>
-      <label>Available Dates and Times<textarea rows="4" name="dates" class="form-input"></textarea></label>
+      <label>Days of week and times available<textarea rows="4" name="dates" class="form-input"></textarea></label>
     </p>
     <p>
       <label>Notes: <textarea rows="4" name="message" class="form-input"></textarea></label>
