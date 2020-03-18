@@ -1,12 +1,12 @@
 ---
-title: Clerkenwell & Bunhill Volunteers
+title: Islington Covid-19 Volunteers
 subtitle: We must be best preprared to look after the vulnerable around us and prevent COVID-19 spreading faster than our health services can cope.
 layout: layouts/base.njk
 ---
 
 ## Who are we?
   Corona Corps is a voluntary organisation dedicated to helping citizens organise to assist in dealing with the coronavirus epidemic.
-  Currently we are recuiting volunteers in the Clerkenwell & Bunhill Wards of London and matching them with those that need assistance.
+  Currently we are recuiting volunteers in all wards of the London Borough of Islington and matching them with those that need assistance.
   More information is available [here](/about)
 
 ## Where do we operate?
@@ -15,20 +15,14 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-- We work within the Clerkenwell & Bunhill Wards of Islington.
-- The map above shows the extent.
 
 ## How can I help?
 
- - Click [here](/volunteer) to register as a volunteer
- - Share this site with any friends or colleagues who would also be able to help
+ - Find the appropriate group for your ward [here](https://docs.google.com/document/d/1wk7Iazl8P6v5E6VJsyg7E-BUvwPqQ1DHi89srmBSctw/edit#heading=h.ia5gxygj0phs)
+ - Join its respective WhatsApp group or send an email
 
 ## How can I get help?
 
- Click [here](/assistance) to request assistance.
+ - Find the appropriate group for your ward [here](https://docs.google.com/document/d/1wk7Iazl8P6v5E6VJsyg7E-BUvwPqQ1DHi89srmBSctw/edit#heading=h.ia5gxygj0phs)
+ - Send a message to their email address, call their number or join their WhatsApp group
 
-
-## Contact Us
-
- - [Email](mailto:clerkenwellmutualaid@gmail.com) 	📧 
- - [WhatsApp](https://chat.whatsapp.com/JwbuyUUwb6J0sepXEgLShr) 📲

@@ -9,7 +9,7 @@ zoom: 12
 map.on('load', function() {
     map.addSource('clerkenwell', {
     'type': 'geojson',
-    'data': '/data/wards.geojson'
+    'data': '/data/islington_wards.geojson'
     });
     map.addLayer({
     'id': 'wards-layer',
