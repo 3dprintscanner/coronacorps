@@ -27,6 +27,8 @@ subtitle: Useful Links
  - [Newham Mutual Aid](https://www.facebook.com/groups/202303704194767/)
  - [Covid-19 Mutual Aid UK](https://www.facebook.com/groups/292963391332421/)
 
+## Wider Support Groups
+ - [Local Helpers](https://localhelpers.org/)
 
 ## Guidance
 - [Public Health England](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
