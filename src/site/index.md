@@ -18,11 +18,11 @@ layout: layouts/base.njk
 
 ## How can I help?
 
- - Find the appropriate group for your ward [here](https://docs.google.com/document/d/1wk7Iazl8P6v5E6VJsyg7E-BUvwPqQ1DHi89srmBSctw/edit#heading=h.ia5gxygj0phs)
+ - Find the appropriate group for your ward [here](https://docs.google.com/document/d/10VCbv-fb5siPOjxDKish1WtT6R_iMby1Wdilitf23-Y/edit?fbclid=IwAR1VzPymX1MEjD9uy0oagX2bJuZnV9u7D1ovMuvRrQuwgN6fXdF6wNaOryw#)
  - Join its respective WhatsApp group or send an email
 
 ## How can I get help?
 
- - Find the appropriate group for your ward [here](https://docs.google.com/document/d/1wk7Iazl8P6v5E6VJsyg7E-BUvwPqQ1DHi89srmBSctw/edit#heading=h.ia5gxygj0phs)
+ - Find the appropriate group for your ward [here](https://docs.google.com/document/d/10VCbv-fb5siPOjxDKish1WtT6R_iMby1Wdilitf23-Y/edit?fbclid=IwAR1VzPymX1MEjD9uy0oagX2bJuZnV9u7D1ovMuvRrQuwgN6fXdF6wNaOryw#)
  - Send a message to their email address, call their number or join their WhatsApp group
 
