@@ -1,12 +1,12 @@
 ---
-title: Clerkenwell & Bunhill Volunteers
+title: Highbury Volunteers
 subtitle: We must be best preprared to look after the vulnerable around us and prevent COVID-19 spreading faster than our health services can cope.
 layout: layouts/base.njk
 ---
 
 ## Who are we?
   Corona Corps is a voluntary organisation dedicated to helping citizens organise to assist in dealing with the coronavirus epidemic.
-  Currently we are recuiting volunteers in the Clerkenwell & Bunhill Wards of London and matching them with those that need assistance.
+  Currently we are recuiting volunteers in the Highbury East & West Wards of Islington and matching them with those that need assistance.
   More information is available [here](/about)
 
 ## Where do we operate?
@@ -15,7 +15,7 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-- We work within the Clerkenwell & Bunhill Wards of Islington.
+- We work within the Highbury East & West Wards of Islington.
 - The map above shows the extent.
 
 ## How can I help?
@@ -25,10 +25,11 @@ layout: layouts/base.njk
 
 ## How can I get help?
 
- Click [here](/assistance) to request assistance.
+ - Click [here](/assistance) to request assistance.
 
 
 ## Contact Us
 
- - [Email](mailto:clerkenwellmutualaid@gmail.com) 	📧 
- - [WhatsApp](https://chat.whatsapp.com/JwbuyUUwb6J0sepXEgLShr) 📲
+ - [Email](mailto:highburymutualaid@gmail.com ) 	📧 
+ - [WhatsApp](https://chat.whatsapp.com/JmcTPpTaTWRJGNcAuZNimd) 📲
+ - [Phone 07961703751](tel:07961703751) 📞

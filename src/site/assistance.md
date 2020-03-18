@@ -10,7 +10,7 @@ To Volunteer please fill out the form [here](/volunteer)
 
 <section id="assistance">
   <div class="form-card">
-    <form name="assistance" method="POST" data-netlify="true">
+    <form name="assistance-highbury" method="POST" data-netlify="true">
     <p>
         <label>Your First Name: <input type="text" name="firstname" class="form-input" /></label>
     </p>
