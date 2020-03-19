@@ -62,12 +62,14 @@ If you would also like to Volunteer please fill out the form [here](/volunteer)
       </p>
       <h4>How Urgent is this request?</h4>
       <p>
-        <input type="checkbox" id="daytime" name="daytime" value="true" class="form-input">
-        <label for="daytime">Today or Tomorrow 🕐</label>
-        <input type="checkbox" id="evening" name="evening" value="true" class="form-input">
-        <label for="evening">3-5 Days 📅</label>
-        <input type="checkbox" id="irregular" name="irregular" value="true" class="form-input">
-        <label for="irregular">Not Urgent</label>
+        <fieldset id="urgency">
+          <input type="radio" name="urgency" value="day" class="form-input">
+          <label for="daytime">Today or Tomorrow 🕐</label>
+          <input type="radio" name="urgency" value="week" class="form-input">
+          <label for="evening">3-5 Days 📅</label>
+          <input type="radio" name="urgency" value="noturgent" class="form-input">
+          <label for="irregular">Not Urgent</label>
+        </fieldset>
       </p>
       <i>
         We are doing our best to respond as quickly as possible,
