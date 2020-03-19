@@ -1,5 +1,6 @@
 @import '_variables.css';
 @import '_syntax.css';
+@import 'bttn.min.css';
 * {
     margin: 0;
     padding: 0;
@@ -245,7 +246,7 @@ footer {
 
 .support-button {
 	background-color:#fff;
-	border-radius:12px;
+	border-radius:8px;
 	display:inline-block;
 	cursor:pointer;
 	color:$page-color;
@@ -256,23 +257,29 @@ footer {
     text-shadow:0px 1px 0px #2f6627;
     margin-top: 1em;
     margin-bottom: 1em;
+    border-style: none;
 }
+
 .support-button:hover {
-	background-color:#ebebeb;
+    background-color:#ebebeb;
+    transform: scale(1.02);
+    transition: all .5s ease-in-out;
 }
 .support-button:active {
 	position:relative;
 	top:1px;
 }
 .left {
-    margin-right: 2em;
+    margin-right: 0.8em;
 }
 
-.support-button a{
-    text-decoration: none;
-    color: $page-color
+.bttn-simple {
+    a,
+    a:link {
+        text-decoration: none;
+        border-bottom: none;
+    }
 }
-
 
 fieldset {
     border-style: none;

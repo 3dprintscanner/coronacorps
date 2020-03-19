@@ -3,8 +3,11 @@ title: Highbury Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
 <br/>
-<button class="get support-button left"><a href="/volunteer">Get Support</a></button>
-<button class="offer support-button"><a href="/support">Offer Support</a></button>
+<div class="button-container">
+  <button class="bttn-simple bttn-lg bttn-royal"><a href="/volunteer">Offer Support</a></button>
+  <button class="bttn-simple bttn-lg bttn-success"><a href="/support">Get Support</a></button>
+</div>
+
 <br/>
 <br/>
 
