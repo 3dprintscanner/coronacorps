@@ -34,6 +34,7 @@ subtitle: Useful Links
 - [Public Health England](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
 - [NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 - [Mind](https://www.mind.org.uk/information-support/coronavirus-and-your-wellbeing/)
+- [Home Deliveries Protocol](https://queercare.network/our-work/resources/covid-19/delivering-items-to-someone-in-self-isolation-protocol/)
 
 
 ## Graphics
