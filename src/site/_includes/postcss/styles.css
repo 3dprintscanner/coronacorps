@@ -124,6 +124,8 @@ a:focus {
 
 .nav {
     padding-top: 3em;
+    font-size: 1.2em;
+    font-weight: 700;
     li {
         display: inline;
     }
@@ -236,4 +238,42 @@ footer {
 #map {
     width: 100%;
     min-height: 400px;
+}
+
+
+
+
+.support-button {
+	background-color:#fff;
+	border-radius:12px;
+	display:inline-block;
+	cursor:pointer;
+	color:$page-color;
+	font-family:Arial;
+	font-size:23px;
+	padding:16px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.support-button:hover {
+	background-color:#ebebeb;
+}
+.support-button:active {
+	position:relative;
+	top:1px;
+}
+.left {
+    margin-right: 2em;
+}
+
+.support-button a{
+    text-decoration: none;
+    color: $page-color
+}
+
+
+fieldset {
+    border-style: none;
 }

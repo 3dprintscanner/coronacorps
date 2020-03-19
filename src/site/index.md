@@ -1,13 +1,33 @@
 ---
-title: Highbury Volunteers
-subtitle: We must be best preprared to look after the vulnerable around us and prevent COVID-19 spreading faster than our health services can cope.
+title: Highbury Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
+<br/>
+<button class="get support-button left"><a href="/volunteer">Get Support</a></button>
+<button class="offer support-button"><a href="/support">Offer Support</a></button>
+<br/>
+<br/>
+
+ - Please remember you can register for both
 
 ## Who are we?
-  Corona Corps is a voluntary organisation dedicated to helping citizens organise to assist in dealing with the coronavirus epidemic.
-  Currently we are recuiting volunteers in the Highbury East & West Wards of Islington and matching them with those that need assistance.
+  We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
+  We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
+  
   More information is available [here](/about)
+  
+  [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
+  
+  Twitter: [@19support](https://twitter.com/19support)
+
+## How can I get support?
+  
+ - Click [here](/volunteer) to register as a volunteer
+ - Share this site with any friends or colleagues who would also be able to help
+
+## How can I offer support?
+
+ - Click [here](/support) to request assistance.
 
 ## Where do we operate?
 
@@ -18,14 +38,7 @@ layout: layouts/base.njk
 - We work within the Highbury East & West Wards of Islington.
 - The map above shows the extent.
 
-## How can I help?
 
- - Click [here](/volunteer) to register as a volunteer
- - Share this site with any friends or colleagues who would also be able to help
-
-## How can I get help?
-
- - Click [here](/assistance) to request assistance.
 
 
 ## Contact Us
