@@ -1,5 +1,5 @@
 ---
-title: Peoples Army Islington
+title: People's Army Islington
 layout: layouts/base.njk
 ---
 <br/>
@@ -36,7 +36,7 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-- We work within the Highbury East & West Wards of Islington.
+- We work within the borough of Islington.
 - The map above shows the extent.
 
 
