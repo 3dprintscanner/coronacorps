@@ -1,5 +1,5 @@
 ---
-title: Highbury Covid-19 Mutual Aid
+title: Peoples Army Islington
 layout: layouts/base.njk
 ---
 <br/>
@@ -14,14 +14,12 @@ layout: layouts/base.njk
  - Please remember you can register for both
 
 ## Who are we?
-  We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
-  We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
+  The People’s Army is an Islington-wide support organisation to assist those in need during the Covid-19 crisis. We are able to provide help with shopping, errands and pet care. We can also provide meals to vulnerable communities.
+
+  Please get in touch if you need support or can offer help in any way. 
   
   More information is available [here](/about)
-  
-  [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
-  
-  Twitter: [@19support](https://twitter.com/19support)
+
 
 ## How can I get support?
   
@@ -46,6 +44,5 @@ layout: layouts/base.njk
 
 ## Contact Us
 
- - [Email](mailto:highburymutualaid@gmail.com ) 	📧 
- - [WhatsApp](https://chat.whatsapp.com/JmcTPpTaTWRJGNcAuZNimd) 📲
- - [Phone 07961703751](tel:07961703751) 📞
+ - [Email](mailto:thepeoplesarmy@hotmail.com ) 	📧 
+ - [Phone 07309071759](tel:07309071759) 📞
