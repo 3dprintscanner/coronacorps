@@ -23,12 +23,19 @@ If you would also like to request support please fill out the form [here](/suppo
       <label>Your Contact Number: <input type="tel" name="contact" class="form-input" /></label>
     </p>
     <p>
-      <label>Postcode: <input type="text" name="postcode" class="form-input" /></label>
+      <label for="street">Street Name:</label>
+      <select id="street">
+      {%- for item in streets -%}
+        <option value="{{item}}">{{ item }}</option>
+      {%- endfor -%}
+      </select>
     </p>
     <h4>Some useful info:</h4>
     <p>
       <input type="checkbox" id="vehicle" name="vehicle" value="true" class="form-input">
       <label for="vehicle"> I have access to a Vehicle 🚗</label>
+      <input type="checkbox" id="bicycle" name="bicycle" value="true" class="form-input">
+      <label for="vehicle"> I have access to a Bicycle 🚲</label>
       <input type="checkbox" id="dbs" name="dbs" value="true" class="form-input">
       <label for="dbs"> Valid DBS Check? ☑️</label>
       <br>      
@@ -41,7 +48,9 @@ If you would also like to request support please fill out the form [here](/suppo
         <input type="radio" value="email" name="contact-preference" class="form-input">
         <label for="email">Email 📧 </label>
         <input type="radio" value="sms" name="contact-preference" class="form-input">
-        <label for="email">WhatsApp / Text Message 📲 </label>
+        <label for="email">Text Message 📱 </label>
+        <input type="radio" value="whatsapp" name="contact-preference" class="form-input">
+        <label for="email">WhatsApp 📲 </label>
       </fieldset>
     </p>
     <h4>Assistance I can offer:</h4>
@@ -65,6 +74,36 @@ If you would also like to request support please fill out the form [here](/suppo
       <label for="supplies">Help with Phones / Laptops / Tech  🖥️</label>
       <br/>
       <label>Anything else? <textarea rows="4" name="skills-else" class="form-input"></textarea></label>
+    </p>
+    <h4>Age? 🎂</h4>
+    <p>
+      <fieldset id="age">
+        <input type="radio" value="18-29" name="age" class="form-input">
+        <label for="18-29">18-29</label>
+        <input type="radio" value="30-39" name="age" class="form-input">
+        <label for="30-39">30-39 </label>
+        <input type="radio" value="40-49" name="age" class="form-input">
+        <label for="40-49">40-49 </label>
+        <input type="radio" value="50-59" name="age" class="form-input">
+        <label for="50-59">50-59 </label>
+        <input type="radio" value="60-69" name="age" class="form-input">
+        <label for="60-69">60-69 </label>
+        <input type="radio" value="70-79" name="age" class="form-input">
+        <label for="70-79">70-79 </label>
+        <input type="radio" value="80+" name="age" class="form-input">
+        <label for="80+">80+ </label>
+      </fieldset>
+    </p>
+    <h4>Gender?</h4>
+    <p>
+      <fieldset id="gender">
+        <input type="radio" value="male" name="gender" class="form-input">
+        <label for="male">Male ♂️</label>
+        <input type="radio" value="female" name="gender" class="form-input">
+        <label for="female">Female ♀️ </label>
+        <input type="radio" value="prefernot" name="gender" class="form-input">
+        <label for="prefernot">Prefer not to say </label>
+      </fieldset>
     </p>
     <h4>When I'm available:</h4>
     <p>

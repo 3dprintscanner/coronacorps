@@ -18,7 +18,6 @@ subtitle: Useful Links
  - [Lewisham Mutual Aid](https://www.facebook.com/groups/906156979855211/)
  - [Hackney Mutual Aid](https://www.facebook.com/groups/280285692955390/?hc_location=group)
  - [Waltham Forest Mutual Aid](https://www.facebook.com/groups/233168351049198/)
- - [Newham Mutual Aid](https://www.facebook.com/groups/202303704194767/)
  - [Tower Hamlets Mutual Aid](https://www.facebook.com/groups/2740546326063053/)
  - [Southwark Mutual Aid](https://www.facebook.com/groups/833177740485170/)
  - [Islington Mutual Aid](https://www.facebook.com/groups/926599381108201/)
@@ -40,5 +39,10 @@ subtitle: Useful Links
 
 ## Graphics
 <br/>
+{{ site.rootUrl }}
+
+   {%- for item in streets -%}
+        {{ item }}
+      {%- endfor -%}
 <img src="/images/Flyer-2xA5.jpg" alt="drawing" width="768"/>
 <img src="/images/Poster-A4.jpg" alt="drawing" width="768"/>
