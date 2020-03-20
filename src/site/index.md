@@ -1,5 +1,5 @@
 ---
-title: Peoples Army Islington
+title: People's Army Islington
 layout: layouts/base.njk
 ---
 <br/>
