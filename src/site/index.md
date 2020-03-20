@@ -36,7 +36,6 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-- We work within the Highbury East & West Wards of Islington.
 - The map above shows the extent.
 
 
