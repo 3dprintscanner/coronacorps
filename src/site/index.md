@@ -1,5 +1,5 @@
 ---
-title: Highbury Covid-19 Mutual Aid
+title: Holloway Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
 <br/>
@@ -14,7 +14,7 @@ layout: layouts/base.njk
  - Please remember you can register for both
 
 ## Who are we?
-  We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
+  We are the Holloway Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
   We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
   
   More information is available [here](/about)
@@ -38,7 +38,7 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-- We work within the Highbury East & West Wards of Islington.
+- We work within the Holloway Wards of Islington.
 - The map above shows the extent.
 
 

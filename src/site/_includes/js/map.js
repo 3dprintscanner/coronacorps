@@ -2,14 +2,14 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiM2RwcmludHNjYW5uZXIiLCJhIjoiY2szb2VvbDNlMXRrb
 var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/streets-v11',
-center: [-0.101817, 51.555815],
+center: [-0.117817, 51.553815],
 zoom: 13
 });
  
 map.on('load', function() {
     map.addSource('clerkenwell', {
     'type': 'geojson',
-    'data': '/data/highbury_wards.geojson'
+    'data': '/data/wards.geojson'
     });
     map.addLayer({
     'id': 'wards-layer',
