@@ -9,7 +9,7 @@ layout: layouts/base.njk
 If you would also like to request support please fill out the form [here](/support)
 
 <div class="form-card">
-  <form name="volunteer-mildmay" method="POST" data-netlify="true">
+  <form name="volunteer-hillrise" method="POST" data-netlify="true">
     <p>
       <label>Your First Name: <input type="text" name="firstname" class="form-input" /></label>   
     </p>

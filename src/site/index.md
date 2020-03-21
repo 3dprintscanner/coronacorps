@@ -1,5 +1,5 @@
 ---
-title: Mildmay Covid-19 Mutual Aid
+title: Hillrise & Tollington Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
 <br/>
@@ -14,7 +14,7 @@ layout: layouts/base.njk
  - Please remember you can register for both
 
 ## Who are we?
-  We are the Mildmay Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
+  We are the Hillrise & Tollington Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
   We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
   
   More information is available [here](/about)
@@ -35,7 +35,7 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-- We work within the Mildmay ward of Islington.
+- We work within the Hillrise & Tollington ward of Islington.
 - The map above shows the extent.
 
 
@@ -43,7 +43,4 @@ layout: layouts/base.njk
 
 ## Contact Us
 
- - [Email](mailto:mildmaymutualaid@gmail.com ) 	📧 
- - [WhatsApp](https://chat.whatsapp.com/Eaprqi9ATuXL9U2BR44X73) 📲
- - [Phone 07407145801](tel:07407145801) 📞
- - [Phone 07933597913](tel:07933597913) 📞
+ - [WhatsApp](https://chat.whatsapp.com/DaDnn7xcWzjEQShTiCGU4H) 📲
