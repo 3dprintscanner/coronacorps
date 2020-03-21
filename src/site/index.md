@@ -21,6 +21,7 @@ layout: layouts/base.njk
 ## How can I help?
 
  - Click [here](/volunteer) to register as a volunteer
+ - Join our [Slack](https://join.slack.com/t/clerkenwellbu-vjp1442/shared_invite/zt-cv2fynw4-aF4sMPZXrnQTiijx6lVoxg) group
  - Share this site with any friends or colleagues who would also be able to help
 
 ## How can I get help?
@@ -32,3 +33,4 @@ layout: layouts/base.njk
 
  - [Email](mailto:clerkenwellmutualaid@gmail.com) 	📧 
  - [WhatsApp](https://chat.whatsapp.com/JwbuyUUwb6J0sepXEgLShr) 📲
+ - [Slack](https://join.slack.com/t/clerkenwellbu-vjp1442/shared_invite/zt-cv2fynw4-aF4sMPZXrnQTiijx6lVoxg) 💻
