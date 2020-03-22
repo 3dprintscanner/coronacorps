@@ -36,9 +36,3 @@ subtitle: Useful Links
 - [Public Health England](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
 - [NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 - [Mind](https://www.mind.org.uk/information-support/coronavirus-and-your-wellbeing/)
-
-
-## Graphics
-<br/>
-<img src="/images/Flyer-2xA5.jpg" alt="drawing" width="768"/>
-<img src="/images/Poster-A4.jpg" alt="drawing" width="768"/>
