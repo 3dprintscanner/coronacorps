@@ -20,12 +20,12 @@ layout: layouts/base.njk
   More information is available [here](/about)
 
 
-## How can I get support?
+## How can I offer support?
   
  - Click [here](/volunteer) to register as a volunteer
  - Share this site with any friends or colleagues who would also be able to help
 
-## How can I offer support?
+## How can I get help?
 
  - Click [here](/support) to request assistance.
 
