@@ -7,7 +7,9 @@ layout: layouts/base.njk
 
 If you would also like to Volunteer please fill out the form [here](/volunteer)
 
-<section id="assistance">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeYSoaOYHEibgzjjzRAPfMlDdkygWA7_76mxvUc0HNrty-bg/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<!-- <section id="assistance">
   <div class="form-card">
     <form name="assistance-hillrise" method="POST" data-netlify="true">
     <p>
@@ -91,7 +93,7 @@ If you would also like to Volunteer please fill out the form [here](/volunteer)
       </p>
     </form>
   </div>
-</section>
+</section> -->
 
 ## Privacy
 
