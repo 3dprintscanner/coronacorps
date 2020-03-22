@@ -30,10 +30,10 @@ layout: layouts/base.njk
  - Click [here](/support) to request assistance.
 
 ## Where do we operate?
+We have divided Mildmay into seven zones for support. Please check below to see which zone you're in, and you can find the name of the coordinator and a link to the zone WhatsApp group.
 
 <br/>
-<div id="map"></div>
-<br/>
+<iframe src="https://www.google.com/maps/d/embed?mid=1PB663thRgainJxg4TncRwNWwWEmp38HU" width="640" height="480"></iframe><br/>
 
 - We work within the Mildmay ward of Islington.
 - The map above shows the extent.
