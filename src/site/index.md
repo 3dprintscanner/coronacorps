@@ -4,6 +4,11 @@ subtitle: We must be best preprared to look after the vulnerable around us and p
 layout: layouts/base.njk
 ---
 
+<div class="button-container">
+  <button class="bttn-simple bttn-lg bttn-royal"><a href="/volunteer">Offer Support</a></button>
+  <button class="bttn-simple bttn-lg bttn-success"><a href="/assistance">Get Support</a></button>
+</div>
+
 ## Who are we?
   Corona Corps is a voluntary organisation dedicated to helping citizens organise to assist in dealing with the coronavirus epidemic.
   Currently we are recuiting volunteers in the Clerkenwell & Bunhill Wards of London and matching them with those that need assistance.
