@@ -1,5 +1,5 @@
 ---
-title: Canonbury Covid-19 Mutual Aid
+title: City of London Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
 <br/>
@@ -14,7 +14,7 @@ layout: layouts/base.njk
  - Please remember you can register for both
 
 ## Who are we?
-  We are the Canonbury Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
+  We are the City of London Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
   We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
   
   More information is available [here](/about)
@@ -39,11 +39,4 @@ layout: layouts/base.njk
 
 ## Contact Us
 
- - [Email](mailto:canonburymutualaid@gmail.com ) 	📧 
- - [WhatsApp](https://chat.whatsapp.com/EOt8o7jbHfwHJnJAcdGJUt) 📲
- - [Phone 02030264438](tel:02030264438) 📞
-
-## Wider support 
-
-  - [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
-  - Twitter: [@19support](https://twitter.com/19support)
+ - [Facebook](https://www.facebook.com/groups/citymutualaid/)
