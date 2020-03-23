@@ -40,5 +40,4 @@ subtitle: Useful Links
 
 ## Graphics
 <br/>
-<img src="/images/Flyer-2xA5.jpg" alt="drawing" width="768"/>
-<img src="/images/Poster-A4.jpg" alt="drawing" width="768"/>
+<img src="/images/canonbury.jpg" alt="drawing" width="768"/>
