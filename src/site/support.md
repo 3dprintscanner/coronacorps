@@ -8,4 +8,4 @@ layout: layouts/base.njk
 If you would also like to Volunteer please fill out the form [here](/volunteer)
 
 
- - Please call or text Terry on: [07903162175](tel:07903162175) 📞
+ **Coming soon**
