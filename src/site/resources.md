@@ -28,6 +28,8 @@ subtitle: Useful Links
 ## Wider Support Groups
  - [Local Helpers](https://localhelpers.org/)
 
+## Guidelines for offering or receiving support
+- [Guidance and collective guidelines](https://bit.ly/HMAGuidanceandCollectiveGuidelines)
 
 ## Graphics
 <br/>
