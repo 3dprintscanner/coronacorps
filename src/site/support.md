@@ -3,9 +3,15 @@ title: Support
 layout: layouts/base.njk
 ---
 
-## Sign up for Support
+{% import "ward-settings.njk" as settings %}
 
-If you would also like to Volunteer please fill out the form [here](/volunteer)
+## Sign up to receive Support
+
+{% if settings.form_type == "iframe" %}
+
+  <iframe src="{{ settings.support_form_link }}" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+{% else %}
 
 <section id="assistance">
   <div class="form-card">
@@ -92,6 +98,8 @@ If you would also like to Volunteer please fill out the form [here](/volunteer)
     </form>
   </div>
 </section>
+
+{% endif %}
 
 ## Privacy
 

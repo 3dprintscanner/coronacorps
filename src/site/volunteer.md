@@ -5,8 +5,13 @@ layout: layouts/base.njk
 
 ## Sign Up to Volunteer
 
+If you would also like to request support please fill out the [get support form](/support)
 
-If you would also like to request support please fill out the form [here](/support)
+{% if settings.form_type == "iframe" %}
+
+  <iframe src="{{ settings.volunteer_form_link }}" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+{% else %}
 
 <div class="form-card">
   <form name="volunteer-holloway" method="POST" data-netlify="true">
@@ -91,6 +96,7 @@ If you would also like to request support please fill out the form [here](/suppo
   </form>
 </div>
 
+{% endif %}
 ## Privacy
 
 The information collected will be used for the legitimate purposes of the group to connect volunteers working in the same area, and to match volunteers to members of the community seeking support. 
