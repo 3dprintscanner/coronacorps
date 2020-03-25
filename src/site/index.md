@@ -11,11 +11,11 @@ layout: layouts/base.njk
 <br/>
 <br/>
 
- - Please remember you can register for both
+ - Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home
 
 ## Who are we?
   We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
-  We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
+  We are a grassroots community group volunteering support for neighbours during the COVID-19/corona virus outbreak.
   
   More information is available [here](/about)
   
@@ -39,13 +39,15 @@ layout: layouts/base.njk
 <br/>
 
 - We work within the Highbury East & West Wards of Islington.
-- The map above shows the extent.
+- The map above shows the area we cover.
 
 
 
 
 ## Contact Us
 
- - [Email](mailto:highburymutualaid@gmail.com ) 	📧 
+ - [Email](mailto:highburymutualaid@gmail.com ) 📧 
  - [WhatsApp](https://chat.whatsapp.com/JmcTPpTaTWRJGNcAuZNimd) 📲
+ - [Telegram](https://t.me/highburycovid19magroup)📲
  - [Phone 07961703751](tel:07961703751) 📞
+ - [Twitter](https://twitter.com/19Support)🐦

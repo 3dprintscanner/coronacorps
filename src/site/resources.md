@@ -4,13 +4,10 @@ layout: layouts/base.njk
 subtitle: Useful Links
 ---
 
-
-## Data
-
- - [Aggregated Data](https://github.com/CSSEGISandData/COVID-19)
- - [Outbreak Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
- - [COVID-19 Subreddit](http://reddit.com/r/covid19)
- - [Coronavirus Subreddit](https://www.reddit.com/r/Coronavirus)
+## Guidance
+- [Public Health England](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
+- [NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+- [Mind](https://www.mind.org.uk/information-support/coronavirus-and-your-wellbeing/)
 
 ## Local Support Groups
  - [Mutual Support Groups](https://freedomnews.org.uk/covid-19-uk-mutual-aid-groups-a-list/)
@@ -31,13 +28,7 @@ subtitle: Useful Links
 ## Wider Support Groups
  - [Local Helpers](https://localhelpers.org/)
 
-## Guidance
-- [Public Health England](https://www.gov.uk/government/collections/coronavirus-covid-19-list-of-guidance)
-- [NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
-- [Mind](https://www.mind.org.uk/information-support/coronavirus-and-your-wellbeing/)
-
 
 ## Graphics
 <br/>
-<img src="/images/Flyer-2xA5.jpg" alt="drawing" width="768"/>
-<img src="/images/Poster-A4.jpg" alt="drawing" width="768"/>
+<img src="/images/highbury_graphic.jpg" alt="drawing" width="768"/>
