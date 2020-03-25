@@ -2,10 +2,10 @@
 title: Holloway Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
+{% import "ward-settings.njk" as settings %}
 
-  We are a grassroots community volunteer group offering support for neighbours in the Holloway Ward of Islington during the COVID-19 outbreak.
+  We are a grassroots community volunteer group offering support for neighbours in the {{ settings.ward }} Ward of Islington during the COVID-19 outbreak.
   [More about us](/about)
-
 
 {% include "buttons-support.njk" %}
 
@@ -15,7 +15,7 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-  Not in this area? [See all wards](/wards)
+  Not in this area?
 
- <button class="bttn-simple bttn-lg bttn-success"><a href="/wards">See all wards</a></button> 
+ <button class="bttn-simple bttn-lg bttn-success"><a href="{{ settings.ward-index-link }}">See all wards</a></button> 
 
