@@ -19,9 +19,11 @@ layout: layouts/base.njk
   
   More information is available [here](/about)
   
-  [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
+  Facebook: [Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
   
   Twitter: [@19support](https://twitter.com/19support)
+  
+  Telegram: There are also hundreds of local folks in Highbury communicating on Telegram. Click <a href="https://highbury-mutual-aid-groups.herokuapp.com/"> here </a> to find which Highbury group to join based on your location. 
 
 ## How can I offer support?
   
@@ -40,8 +42,6 @@ layout: layouts/base.njk
 
 - We work within the Highbury East & West Wards of Islington.
 - The map above shows the area we cover.
-
-
 
 
 ## Contact Us
