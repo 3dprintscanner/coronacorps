@@ -31,4 +31,4 @@ subtitle: Useful Links
 
 ## Graphics
 <br/>
-<img src="/images/highbury_graphic.jpg" alt="drawing" width="768"/>
+<img src="/images/highbury_graphic.jpg" alt="drawing" width="100%" height="auto" />
