@@ -19,3 +19,9 @@ layout: layouts/base.njk
 
  <button class="bttn-simple bttn-lg bttn-success"><a href="{{ settings.ward-index-link }}">See all wards</a></button> 
 
+## Contact Us
+ 
+  - [Holloway WhatsApp](https://chat.whatsapp.com/Ge12JOC79wo8u6lKcWnCls) 📲
+  - Call Support Line: [07494971873](tel:07404884164) 📞
+  - Call Shulamit: [07790164439](tel:07790164439)📞
+  - [Email Holloway](mailto:hollowaymutualaid@gmail.com) 📧
