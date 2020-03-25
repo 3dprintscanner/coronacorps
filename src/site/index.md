@@ -23,7 +23,7 @@ layout: layouts/base.njk
   
   Twitter: [@19support](https://twitter.com/19support)
   
-  Telegram: There are also hundreds of local folks in Highbury communicating on Telegram. Click <a href="https://highbury-mutual-aid-groups.herokuapp.com/"> here </a> to find which Highbury group to join based on your location. 
+  Telegram: Click <a href="https://highbury-mutual-aid-groups.herokuapp.com/"> here </a> to find which Highbury group to join based on your location. 
 
 ## How can I offer support?
   
