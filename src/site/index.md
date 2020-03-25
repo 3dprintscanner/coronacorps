@@ -1,5 +1,5 @@
 ---
-title: Caledonian & Barnsbury Park Covid-19 Mutual Aid
+title: Caledonian & Barnsbury Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
 <br/>
