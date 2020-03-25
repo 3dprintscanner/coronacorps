@@ -11,7 +11,7 @@ layout: layouts/base.njk
 <br/>
 <br/>
 
- - Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home
+ - Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home. Please click <a href="https://drive.google.com/file/d/1qoTdlNc70uqNKCTy91ebcNm1Z1bptyJA/view"> this link </a> for Guidelines and guidance for offering and receiving support.
 
 ## Who are we?
   We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
