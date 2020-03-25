@@ -33,4 +33,5 @@ subtitle: Useful Links
 
 ## Graphics
 <br/>
-<img src="/images/highbury_graphic.jpg" alt="drawing" width="100%" height="auto" />
+<a href="https://drive.google.com/open?id=12hUN311w9SR_OQt4E0MbIh5tNJyESMrh"> <img src="/images/highbury_graphic.jpg" alt="drawing" width="100%" height="auto" /> </a>
+Link to the above graphic is <a href="https://drive.google.com/open?id=12hUN311w9SR_OQt4E0MbIh5tNJyESMrh"> here </a>
