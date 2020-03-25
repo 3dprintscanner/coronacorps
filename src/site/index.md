@@ -9,8 +9,6 @@ layout: layouts/base.njk
   <button class="bttn-simple bttn-lg bttn-success"><a href="/support">Get Support</a></button>
 </div>
 
-<br/>
-<br/>
 
 Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home.  
 
