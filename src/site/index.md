@@ -43,7 +43,7 @@ Click <a href="https://drive.google.com/file/d/1qoTdlNc70uqNKCTy91ebcNm1Z1bptyJA
 
 - We work within the Highbury East & West Wards of Islington.
 - The map above shows the area we cover.
-- Find your Highbury zone <a href="https://highbury-mutual-aid-groups.herokuapp.com/"> here </a> to connect with your group
+- Find your road and identify which <a href="https://highbury-mutual-aid-groups.herokuapp.com/"> Highbury zone you are in to connect with your local group on telegram </a>  
 
 
 ## Contact Us
