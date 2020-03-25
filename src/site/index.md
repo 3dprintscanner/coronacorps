@@ -5,13 +5,16 @@ layout: layouts/base.njk
 <br/>
 <div class="button-container">
   <button class="bttn-simple bttn-lg bttn-royal"><a href="/volunteer">Offer Support</a></button>
+  
   <button class="bttn-simple bttn-lg bttn-success"><a href="/support">Get Support</a></button>
 </div>
 
 <br/>
 <br/>
 
- - Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home. Please click <a href="https://drive.google.com/file/d/1qoTdlNc70uqNKCTy91ebcNm1Z1bptyJA/view"> this link </a> for Guidelines and guidance for offering and receiving support.
+Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home.  
+
+Click <a href="https://drive.google.com/file/d/1qoTdlNc70uqNKCTy91ebcNm1Z1bptyJA/view"> this link </a> for Guidelines and guidance for offering and receiving support.
 
 ## Who are we?
   We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
