@@ -15,7 +15,5 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-  Not in this area?
-
- <button class="bttn-simple bttn-lg bttn-success"><a href="{{ settings.ward-index-link }}">See all wards</a></button> 
+Not in this area? [See all wards]({{ settings.ward_index_link }})
 
