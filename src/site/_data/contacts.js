@@ -37,8 +37,8 @@ module.exports =
         },
         {
             'ward': 'Junction',
-            'website': 'mailto:junctionislingtonmutualaidddillymarby@gmail.com',
-            'email': 'junctionislingtonmutualaidddillymarby@gmail.com'
+            'website': 'mailto:Junctionislingtonmutualaid@gmail.com',
+            'email': 'Junctionislingtonmutualaidgmail.com'
         },
         {
             'ward': 'Mildmay',
