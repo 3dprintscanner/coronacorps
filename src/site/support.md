@@ -2,19 +2,15 @@
 title: Support
 layout: layouts/base.njk
 form_type: netlify
-form_text_above: >-
-  Please fill in this form to submit a request for support. We will aim to get
-  back to you within 48 hours.
-form_text_below: "## Privacy\r\n\r\nThe information collected will be used for the legitimate purposes of the group to connect volunteers working in the same area, and to match volunteers to members of the community seeking support. \r\n\r\nPlease do not upload any sensitive information. If you are completing this form on behalf of someone else, please ask for consent and include your name in the form as well. \r\n\r\nAny information gathered will be deleted when the group disbands. To remove your data or ask any questions, please contact us."
 ---
-
-{% import "ward-settings.njk" as settings %}
 
 ## Make a request to receive support
 
-{% if settings.form_type == "iframe" %}
+{{form_text_above}}
 
-  <iframe src="{{ settings.support_form_link }}" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+{% if form_type == "iframe" %}
+
+  <iframe src="{{ form_link }}" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 {% else %}
 
@@ -106,11 +102,4 @@ form_text_below: "## Privacy\r\n\r\nThe information collected will be used for t
 
 {% endif %}
 
-## Privacy
-
-Privacy Notice
-The information collected will be used for the legitimate purposes of the group to connect volunteers working in the same area, and to match volunteers to members of the community seeking support. 
-
-Please do not upload any sensitive information. If you are completing this form on behalf of someone else, please ask for consent and include your name in the form as well. 
-
-Any information gathered will be deleted when the group disbands. To remove your data or ask any questions, please contact us.
+{{form_text_below}}

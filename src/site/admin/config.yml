@@ -1,0 +1,55 @@
+backend:
+  name: git-gateway
+  branch: holloway # Branch to update
+media_folder: "site/images/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+# CONTENT
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home Page"
+        name: "/"
+        file: "src/site/index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Ward, name: ward, widget: string}
+          - {label: Intro, name: intro, widget: markdown}      
+      - label: "About Page"
+        name: "about"
+        file: "src/site/about.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Text, name: text, widget: markdown}   
+      - label: "Resources Page"
+        name: "Resources"
+        file: "src/site/resources.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Resources, name: text, widget: markdown}      
+      - label: "Contact Page"
+        name: "contact"
+        file: "src/site/Contact.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: WhatsApp Group Link, name: whatsapp, widget: string}      
+      - label: "Support Page"
+        name: "support"
+        file: "src/site/support.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Form Type, name: form_type, widget: select, options: ["iframe", "netlify"]}
+          - {label: Form Link, name: form_link, widget: string, required: false}
+          - {label: Text Above Form, name: form_text_above, widget: markdown, required: false}          
+          - {label: Text Below Form, name: form_text_below, widget: markdown, required: false}
+      - label: "Volunteer Page"
+        name: "volunteer"
+        file: "src/site/volunteer.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Form Type, name: form_type, widget: select, options: ["iframe", "netlify", "whatsapp"]}
+          - {label: Form Link, name: form_link, widget: string, required: false}
+          - {label: Text Above Form, name: form_text_above, widget: markdown, required: false}          
+          - {label: Text Below Form, name: form_text_below, widget: markdown, required: false}
