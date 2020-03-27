@@ -18,13 +18,21 @@ map.on('load', function() {
     'layout': {},
     'paint': {
     'fill-color': '#088',
-    'fill-opacity': 0.5
+    'fill-opacity': 0.5,
+    'fill-outline-color': "#e30346"
     }
     });
 
 
     map.addControl(new mapboxgl.FullscreenControl());
-
+    map.addControl(
+        new mapboxgl.GeolocateControl({
+        positionOptions: {
+            enableHighAccuracy: true
+            },
+            trackUserLocation: true
+            })
+        );
 
     map.on('click', 'wards-layer', function(e) {
         new mapboxgl.Popup()
