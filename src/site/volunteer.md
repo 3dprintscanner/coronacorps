@@ -1,6 +1,10 @@
 ---
 title: Volunteer
 layout: layouts/base.njk
+form_type: whatsapp
+form_link: 'https://holloway.coronacorps.com/volunteer/settings.whatsapp'
+form_text_above: "You can provide assistance to people in Holloway by joining the WhatsApp welcome group linked below and responding to help with any of the following:\r\n\r\n- \U0001F6CD️ Deliver shopping or medicine\r\n- \U0001F4DE Make a friendly phone call to someone in isolation\r\n- \U0001F415 Dog walking and vet visits\r\n- \U0001F4E7 Posting mail\r\n\r\n## How it works\r\nOnce in the group, you will be directed to join one of the broadcast groups where requests for assistance are sent out. You can then respond by direct message to the person making the request to take that task on. \r\n\r\n**NOTE** this is a public group, so please **do not post any private information**."
+form_text_below: "## Privacy\r\n\r\nThe information collected will be used for the legitimate purposes of the group to connect volunteers working in the same area, and to match volunteers to members of the community seeking support. \r\n\r\nPlease do not upload any sensitive information. If you are completing this form on behalf of someone else, please ask for consent and include your name in the form as well. \r\n\r\nAny information gathered will be deleted when the group disbands. To remove your data or ask any questions, please contact us."
 ---
 
 ## Join the {{ ward }} Volunteer Network
