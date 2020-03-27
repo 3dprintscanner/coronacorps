@@ -2,7 +2,10 @@
 title: Holloway Covid-19 Mutual Aid
 layout: layouts/base.njk
 ward: Holloway
-intro: Intro Text
+intro: >-
+  We are a grassroots community volunteer group offering support for neighbours
+  in the Holloway Ward of Islington during the COVID-19 outbreak.[More about
+  us](https://holloway.coronacorps.com/about)
 ---
 
 {% include "buttons-support.njk" %}
