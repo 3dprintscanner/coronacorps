@@ -3,31 +3,19 @@ title: Volunteer
 layout: layouts/base.njk
 ---
 
-{% import "ward-settings.njk" as settings %}
+## Join the {{ ward }} Volunteer Network
 
-## Join the {{ settings.ward }} Volunteer Network
+{{form_text_above}}
 
-{% if settings.volunteer_form_type == "iframe" %}
+{% if form_type == "iframe" %}
 
-  <iframe src="{{ settings.volunteer_form_link }}" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe src="{{ form_link }}" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-{% elseif settings.volunteer_form_type == "whatsapp" %}
-
-You can provide assistance to people in {{ settings.ward }} by joining [the WhatsApp group](settings.whatsapp) and doing one or more of the following:
-
-- 🛍️ Deliver shopping or medicine
-- 📞 Make a friendly phone call to someone in isolation
-- 🐕 Dog walking and vet visits
-- 📧 Posting mail
-
-## How it works
-Once in the group, you can respond to any of the requests for help that are broadcast. Please respond by direct message to the person making the request, not directly in the group. 
-
-**NOTE** this is a public group, so please **do not post any private information**.
+{% elseif form_type == "whatsapp" %}
 
 <br>
 <div class="button-container">
-  <button class="bttn-simple bttn-lg bttn-success"><a href="settings.whatsapp">Join WhatsApp Group</a></button> 
+  <button class="bttn-simple bttn-lg bttn-success"><a href="form_link">Join WhatsApp Group</a></button> 
 </div>
 <br> 
 
@@ -118,14 +106,6 @@ Link requires [WhatsApp](https://www.whatsapp.com/) to be installed on your phon
   </form>
 </div>
 
-
-## Privacy
-
-The information collected will be used for the legitimate purposes of the group to connect volunteers working in the same area, and to match volunteers to members of the community seeking support. 
-
-Please do not upload any sensitive information. If you are completing this form on behalf of someone else, please ask for consent and include your name in the form as well. 
-
-Any information gathered will be deleted when the group disbands. To remove your data or ask any questions, please contact us.
-
 {% endif %}
 
+{{form_text_below}}

@@ -3,9 +3,7 @@ title: Resources
 layout: layouts/base.njk
 ---
 
-{% import "ward-settings.njk" as settings %}
-
-{% include "ward-resources.njk" %}
+{{text}}
 
 ## External Resources
 <ul>
