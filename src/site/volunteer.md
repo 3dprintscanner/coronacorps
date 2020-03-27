@@ -1,6 +1,9 @@
 ---
 title: Volunteer
 layout: layouts/base.njk
+form_type: whatsapp
+form_link: 'https://holloway.coronacorps.com/volunteer/settings.whatsapp'
+form_text_above: "You can provide assistance to people in {{ settings.ward }} by joining [the WhatsApp group](settings.whatsapp) and doing one or more of the following:\r\n\r\n- \U0001F6CD️ Deliver shopping or medicine\r\n- \U0001F4DE Make a friendly phone call to someone in isolation\r\n- \U0001F415 Dog walking and vet visits\r\n- \U0001F4E7 Posting mail\r\n\r\n## How it works\r\nOnce in the group, you can respond to any of the requests for help that are broadcast. Please respond by direct message to the person making the request, not directly in the group. \r\n\r\n**NOTE** this is a public group, so please **do not post any private information**."
 ---
 
 {% import "ward-settings.njk" as settings %}
