@@ -1,5 +1,5 @@
 ---
-title: Junction Covid-19 Mutual Aid
+title: St George's Covid-19 Mutual Aid
 layout: layouts/base.njk
 ---
 <br/>
@@ -14,11 +14,10 @@ Please note you can register for both - if you are self-isolating, there will be
 
 
 ## Who are we?
-  We are the Junction (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
+  We are the St George's Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
   We are a grassroots community group volunteering support for neighbours during the COVID-19/corona virus outbreak.
   
   More information is available [here](/about)
-  
   
 
 ## How can I offer support?
@@ -39,11 +38,13 @@ Please note you can register for both - if you are self-isolating, there will be
 - The map above shows the area we cover.
 
 
-## Contact Us
+ ## Contact Us
 
- - [Email](mailto:Junctionislingtonmutualaid@gmail.com) 📧 
- - [WhatsApp](https://chat.whatsapp.com/BfkBo6uOCPXCGybgNWXNUg) 📲
- - [Phone 07940514868](tel:07940514868) 📞
+ - [Email](mailto:sgislingtonmutualaid@gmail.com) 📧 
+ - [WhatsApp](https://chat.whatsapp.com/CyDoDZLEZVRGf0rGctfMRL) 📲
+ - [Phone 07720650382](tel:07720650382) 📞
+ - [Phone 07787707643](tel:07787707643) 📞
+
 
 
  Not your ward? Find yours [here](https://islington.coronacorps.com/wards)

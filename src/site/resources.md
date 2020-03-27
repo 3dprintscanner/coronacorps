@@ -31,10 +31,9 @@ subtitle: Useful Links
 ## Guidance for requesting and offering support
 - [Guidance and collective guidelines](https://bit.ly/HMAGuidanceandCollectiveGuidelines)
 
-## Contact Us
+ ## Contact Us
 
- - [Email](mailto:highburymutualaid@gmail.com ) 📧 
- - [WhatsApp](https://chat.whatsapp.com/JmcTPpTaTWRJGNcAuZNimd) 📲
- - [Telegram](https://t.me/highburycovid19magroup)📲
- - [Phone 07961703751](tel:07961703751) 📞
- - [Twitter](https://twitter.com/19Support)🐦
+ - [Email](mailto:sgislingtonmutualaid@gmail.com) 📧 
+ - [WhatsApp](https://chat.whatsapp.com/CyDoDZLEZVRGf0rGctfMRL) 📲
+ - [Phone 07720650382](tel:07720650382) 📞
+ - [Phone 07787707643](tel:07787707643) 📞

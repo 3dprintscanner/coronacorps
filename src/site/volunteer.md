@@ -8,7 +8,11 @@ layout: layouts/base.njk
 
 If you would also like to request support please fill out the form [here](/support)
 
-Please complete the form below, then read [this document](https://docs.google.com/document/d/1q5SCoe0uK4xXnLbEurp0UpZ7IVU91x6FaY0Y6N7Y0nQ/edit)
+To Volunteer please fill out the form [here](https://docs.google.com/forms/d/1rNTL4FZ9EBYNZS7-9vmkEibD9J5EPkdY5cHUVilmdqM/viewform?edit_requested=true)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoLfdatPGScyMQ_aHpDOxsHCeWiSye11UUl9-DtPXEP8XpEg/viewform?embedded=true" width="100%" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ ## Contact Us
 
+ - [Email](mailto:sgislingtonmutualaid@gmail.com) 📧 
+ - [WhatsApp](https://chat.whatsapp.com/CyDoDZLEZVRGf0rGctfMRL) 📲
+ - [Phone 07720650382](tel:07720650382) 📞
+ - [Phone 07787707643](tel:07787707643) 📞
