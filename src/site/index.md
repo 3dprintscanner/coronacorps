@@ -1,6 +1,8 @@
 ---
-title: Holloway Covid-19 Mutual Aid
+title: Holloway Ward Covid-19 Mutual Aid
 layout: layouts/base.njk
+ward: Holloway
+intro: Intro Text
 ---
 {% import "ward-settings.njk" as settings %}
 
