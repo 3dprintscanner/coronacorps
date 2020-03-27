@@ -15,6 +15,8 @@ includes: [
 
   More information is available [here](/about)
 
+  Find us on Facebook [here](https://www.facebook.com/groups/926599381108201/)
+
 ## How can I get or give help?
 
 <p>Find the appropriate group for your ward <button class="bttn-simple bttn-lg bttn-success"><a href="/wards">Here</a></button></p>
@@ -24,6 +26,8 @@ includes: [
 <br/>
 <div id="map"></div>
 <br/>
+
+
 
 
 
