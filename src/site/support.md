@@ -2,6 +2,10 @@
 title: Support
 layout: layouts/base.njk
 form_type: netlify
+form_text_above: >-
+  Please enter your details in the form below to submit a request for
+  assistance. We aim to respond within 48 hours.
+form_text_below: "## Privacy\r\n\r\nPrivacy Notice\r\nThe information collected will be used for the legitimate purposes of the group to connect volunteers working in the same area, and to match volunteers to members of the community seeking support. \r\n\r\nPlease do not upload any sensitive information. If you are completing this form on behalf of someone else, please ask for consent and include your name in the form as well. \r\n\r\nAny information gathered will be deleted when the group disbands. To remove your data or ask any questions, please contact us."
 ---
 
 ## Make a request to receive support
