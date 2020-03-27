@@ -37,8 +37,8 @@ module.exports =
         },
         {
             'ward': 'Junction',
-            'website': 'mailto:Junctionislingtonmutualaid@gmail.com',
-            'email': 'Junctionislingtonmutualaidgmail.com'
+            'website': 'https://junction.coronacorps.com',
+            'email': 'Junctionislingtonmutualaid@gmail.com'
         },
         {
             'ward': 'Mildmay',
@@ -47,7 +47,7 @@ module.exports =
         },
         {
             'ward': 'St George\'s',
-            'website': 'mailto:sgislingtonmutualaid@gmail.com',
+            'website': 'https://stgeorges.coronacorps.com',
             'email': 'sgislingtonmutualaid@gmail.com'
         },
         {
