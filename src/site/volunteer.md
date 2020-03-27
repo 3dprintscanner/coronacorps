@@ -19,7 +19,7 @@ form_text_below: "## Privacy\r\n\r\nThe information collected will be used for t
 
 <br>
 <div class="button-container">
-  <button class="bttn-simple bttn-lg bttn-success"><a href="form_link">Join WhatsApp Group</a></button> 
+  <button class="bttn-simple bttn-lg bttn-success"><a href="{{ form_link }}">Join WhatsApp Group</a></button> 
 </div>
 <br> 
 

@@ -8,9 +8,9 @@ intro: >-
   us](https://holloway.coronacorps.com/about)
 ---
 
-{% include "buttons-support.njk" %}
+{{ intro }}
 
-{{intro}}
+{% include "buttons-support.njk" %}
 
  ## Where do we operate?
   The map below shows the area in which we operate. 
@@ -18,5 +18,5 @@ intro: >-
 <div id="map"></div>
 <br/>
 
-Not in {{ward}}? [See all wards](https://islington.coronacorps.com/wards)
+Not in {{ ward }}? [See all wards](https://islington.coronacorps.com/wards)
 
