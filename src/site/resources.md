@@ -31,12 +31,6 @@ subtitle: Useful Links
 ## Guidance for requesting and offering support
 - [Guidance and collective guidelines](https://bit.ly/HMAGuidanceandCollectiveGuidelines)
 
-## Graphics
-<br/>
-<a href="https://drive.google.com/open?id=12hUN311w9SR_OQt4E0MbIh5tNJyESMrh"> <img src="/images/highbury_graphic.jpg" alt="drawing" width="100%" height="auto" /> </a>
-Link to the above graphic is <a href="https://drive.google.com/open?id=12hUN311w9SR_OQt4E0MbIh5tNJyESMrh"> here </a>
-
-
 ## Contact Us
 
  - [Email](mailto:highburymutualaid@gmail.com ) 📧 
