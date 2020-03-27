@@ -9,8 +9,8 @@ layout: layouts/base.njk
 
 ## External Resources
 <ul>
-	<li><a href="{{ settings.support-groups-link }}">Other Local Support Groups</a></li>
-	<li><a href="{{ settings.guidance-link }}">Guidance</a></li>
+	<li><a href="https://islington.coronacorps.com/resources">Other Local Support Groups</a></li>
+	<li><a href="https://islington.coronacorps.com/resources">Guidance</a></li>
 </ul>
 
 

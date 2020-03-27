@@ -5,7 +5,7 @@ layout: layouts/base.njk
 
 {% import "ward-settings.njk" as settings %}
 
-## Sign up to receive Support
+## Make a request to receive support
 
 {% if settings.form_type == "iframe" %}
 
@@ -93,7 +93,7 @@ layout: layouts/base.njk
         <label for="consent">I consent to be contacted by my local Mutual Aid volunteer groups.</label>
       </p>
       <p>
-        <input type="submit" class="button"></input><button type="reset" class="button">Reset</button>
+        <input type="submit" class="button"></input>
       </p>
     </form>
   </div>
