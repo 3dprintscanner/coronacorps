@@ -3,7 +3,7 @@ title: Contact Us
 layout: layouts/base.njk
 phone: 07404 884 264
 email: hollowaymutualaid@gmail.com
-whatsapp: 'https://chat.whatsapp.com/Ge12JOC79wo8u6lKcWnCls'
+whatsapp: 'https://chat.whatsapp.com/HY8PhgRogE4EqRjGrel3QJ'
 ---
 
 {% include "buttons-support.njk" %}
