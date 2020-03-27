@@ -43,5 +43,5 @@ layout: layouts/base.njk
  - [WhatsApp](https://chat.whatsapp.com/EzqWZ4gek5V1fmxO6tuevi) 📲
  - [Phone 07903162175](tel:07903162175) 📞
  - [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
- - Twitter: [@19support](https://twitter.com/FPCovidSupport)
+ - Twitter: [@FPCovidSupport](https://twitter.com/FPCovidSupport)
   
