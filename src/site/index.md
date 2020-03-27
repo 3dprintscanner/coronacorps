@@ -1,6 +1,8 @@
 ---
 title: Holloway Covid-19 Mutual Aid
 layout: layouts/base.njk
+ward: Holloway
+intro: Intro Text
 ---
 
 {% include "buttons-support.njk" %}
