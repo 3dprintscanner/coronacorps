@@ -23,7 +23,12 @@ map.on('load', function() {
     }
     });
 
-
+    map.addControl(
+        new MapboxGeocoder({
+        accessToken: mapboxgl.accessToken,
+        mapboxgl: mapboxgl
+        })
+    );
     map.addControl(new mapboxgl.FullscreenControl());
     map.addControl(
         new mapboxgl.GeolocateControl({
@@ -33,6 +38,8 @@ map.on('load', function() {
             trackUserLocation: true
             })
         );
+
+    
 
     map.on('click', 'wards-layer', function(e) {
         new mapboxgl.Popup()
