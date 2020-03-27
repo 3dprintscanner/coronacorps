@@ -15,5 +15,5 @@ layout: layouts/base.njk
 <div id="map"></div>
 <br/>
 
-Not in this area? [See all wards]({{ settings.ward_index_link }})
+Not in this area? [See all wards](https://islington.coronacorps.com/wards)
 
