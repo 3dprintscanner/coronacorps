@@ -14,8 +14,7 @@ layout: layouts/base.njk
  - Please remember you can register for both
 
 ## Who are we?
-  We are the Finsbury Park Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
-  We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
+  We are the Finsbury Park Covid 19 Mutual Aid Group. We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak. We are really glad you have expressed an interest in being a part of this community support.
   
   More information is available [here](/about)
   
@@ -39,9 +38,9 @@ layout: layouts/base.njk
 
 ## Contact Us
 
- - [Email](mailto:fpmutualaid@gmail.com ) 	📧 
+ - [fpmutualaid@gmail.com](mailto:fpmutualaid@gmail.com ) 	📧 
  - [WhatsApp](https://chat.whatsapp.com/EzqWZ4gek5V1fmxO6tuevi) 📲
  - [Phone 07903162175](tel:07903162175) 📞
  - [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
- - Twitter: [@19support](https://twitter.com/FPCovidSupport)
+ - Twitter: [@FPCovidSupport](https://twitter.com/FPCovidSupport)
   
