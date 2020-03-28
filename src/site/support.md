@@ -11,4 +11,3 @@ If you would also like to Volunteer please fill out the form [here](/volunteer)
 
  - [Email](mailto:Junctionislingtonmutualaid@gmail.com) 📧 
  - [WhatsApp](https://chat.whatsapp.com/BfkBo6uOCPXCGybgNWXNUg) 📲
- - [Phone 07940514868](tel:07940514868) 📞

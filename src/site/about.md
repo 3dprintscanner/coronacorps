@@ -25,4 +25,3 @@ Thank you for being part of such a great community. We are overwhelmed and reall
 
  - [Email](mailto:Junctionislingtonmutualaid@gmail.com) 📧 
  - [WhatsApp](https://chat.whatsapp.com/BfkBo6uOCPXCGybgNWXNUg) 📲
- - [Phone 07940514868](tel:07940514868) 📞

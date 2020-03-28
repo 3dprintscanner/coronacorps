@@ -43,7 +43,6 @@ Please note you can register for both - if you are self-isolating, there will be
 
  - [Email](mailto:Junctionislingtonmutualaid@gmail.com) 📧 
  - [WhatsApp](https://chat.whatsapp.com/BfkBo6uOCPXCGybgNWXNUg) 📲
- - [Phone 07940514868](tel:07940514868) 📞
 
 
  Not your ward? Find yours [here](https://islington.coronacorps.com/wards)

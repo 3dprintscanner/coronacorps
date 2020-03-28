@@ -33,8 +33,5 @@ subtitle: Useful Links
 
 ## Contact Us
 
- - [Email](mailto:highburymutualaid@gmail.com ) 📧 
- - [WhatsApp](https://chat.whatsapp.com/JmcTPpTaTWRJGNcAuZNimd) 📲
- - [Telegram](https://t.me/highburycovid19magroup)📲
- - [Phone 07961703751](tel:07961703751) 📞
- - [Twitter](https://twitter.com/19Support)🐦
+ - [Email](mailto:Junctionislingtonmutualaid@gmail.com) 📧 
+ - [WhatsApp](https://chat.whatsapp.com/BfkBo6uOCPXCGybgNWXNUg) 📲
