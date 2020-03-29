@@ -26,6 +26,12 @@ For assistance please fill out the form [here](/assistance)
     <p>
       <label>Street Name: <input type="text" name="ward" class="form-input" /></label>
     </p>
+    <p>
+      <label>House Number / Name: <input type="text" name="housenumber" class="form-input" /></label>
+    </p>
+    <p>
+      <label>Postcode: <input type="text" name="postcode" class="form-input" /></label>
+    </p>
     <h4>Some useful info</h4>
     <p>
       <input type="checkbox" id="vehicle" name="vehicle" value="true" class="form-input">

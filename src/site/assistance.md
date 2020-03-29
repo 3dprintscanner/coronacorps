@@ -26,6 +26,12 @@ To Volunteer please fill out the form [here](/volunteer)
     <p>
         <label>Street Name: <input type="text" name="ward" class="form-input" /></label>
     </p>
+    <p>
+      <label>House Number / Name: <input type="text" name="housenumber" class="form-input" /></label>
+    </p>
+    <p>
+      <label>Postcode: <input type="text" name="postcode" class="form-input" /></label>
+    </p>
         <h4>Required Assistance:</h4>
     <p>
         <input type="checkbox" id="shopping" name="shopping" value="true" class="form-input">
