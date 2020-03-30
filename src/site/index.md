@@ -33,7 +33,7 @@ layout: layouts/base.njk
 We have divided Mildmay into seven zones for support. Please check below to see which zone you're in, and you can find the name of the coordinator and a link to the zone WhatsApp group.
 
 <br/>
-<iframe src="https://www.google.com/maps/d/embed?mid=1PB663thRgainJxg4TncRwNWwWEmp38HU&z=15" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1PB663thRgainJxg4TncRwNWwWEmp38HU&ll=51.55030948209627%2C-0.08564362375909695&z=15" width="640" height="480"></iframe>
 
 - We work within the Mildmay ward of Islington.
 - The map above shows the extent.
