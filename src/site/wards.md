@@ -19,16 +19,16 @@ includes: [
     <thead>
         <tr>
             <th>Ward</th>
-            <th>Website</th>
-            <th>Contact</th>
+            <th>Web</th>
+            <th>Email</th>
         </tr>
     </thead>
     <tbody>
         {%- for ward in contacts -%}
         <tr>
             <td>{{ ward.ward}}</td>
-            <td><button class="bttn-simple bttn-lg bttn-success"><a href="{{ ward.website }}">Website</a></button></td>
-            <td><button class="bttn-simple bttn-lg bttn-royal"><a href="mailto:{{ ward.email }}">Email</a></button</td>
+            <td><button class="bttn-simple bttn-lg bttn-success"><a href="{{ ward.website }}">Web 🖥️</a></button></td>
+            <td><button class="bttn-simple bttn-lg bttn-royal"><a href="mailto:{{ ward.email }}">Email 📧</a></button</td>
         </tr>
         {%- endfor -%}
     </tbody>
