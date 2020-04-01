@@ -243,25 +243,28 @@ footer {
 #wards {
     border-collapse: collapse;
     width: 100%;
-  }
-  
-  #wards td, #wards th {
-    border: 1px solid mix($text-color, $accent-color, 80%);
-    padding: 8px;
-  }
-  
-  
-  #wards tr:hover {
-    border-style: solid;
-    border-color: lightgray;
-   
+    thead {
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-bottom-color: mix($text-color, $accent-color, 40%);
+        padding-bottom: 16px;
     }
-    
-  
-  #wards th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: $accent-color;
-    color: $text-color;
+    td, th {
+        border: 1px solid mix($text-color, $accent-color, 80%);
+        padding: 8px;
+        padding-left:16px ;
+        padding-right:16px ;
+    }
+    tbody tr:hover {
+        border-style: solid;
+        border-color: lightgray;
+        transform: scale(1.02);
+        transition-duration: 0.7s;
+        transform-origin: center;
+       
+        }
+    a:link {
+        text-decoration: none;
+        border-bottom: none;
+    }
   }
