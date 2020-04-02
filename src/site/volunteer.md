@@ -12,10 +12,10 @@ For assistance please fill out the form [here](/assistance)
 <div class="form-card">
   <form name="volunteer" method="POST" data-netlify="true">
     <p>
-      <label>Your First Name: <input type="text" name="firstname" class="form-input" /></label>   
+      <label>Your First Name *: <input type="text" name="firstname" class="form-input" required /></label>   
     </p>
     <p>
-      <label>Your Last Name: <input type="text" name="lastname" class="form-input" /></label>   
+      <label>Your Last Name *: <input type="text" name="lastname" class="form-input" required /></label>   
     </p>
     <p>
       <label>Your Email: <input type="email" name="email" class="form-input" /></label>
@@ -24,13 +24,13 @@ For assistance please fill out the form [here](/assistance)
       <label>Your Contact Number: <input type="tel" name="contact" class="form-input" /></label>
     </p>
     <p>
-      <label>Street Name: <input type="text" name="ward" class="form-input" /></label>
+      <label>Street Name *: <input type="text" name="ward" class="form-input" required /></label>
     </p>
     <p>
-      <label>House Number / Name: <input type="text" name="housenumber" class="form-input" /></label>
+      <label>House Number / Name *: <input type="text" name="housenumber" class="form-input" required /></label>
     </p>
     <p>
-      <label>Postcode: <input type="text" name="postcode" class="form-input" /></label>
+      <label>Postcode *: <input type="text" name="postcode" class="form-input" required/></label>
     </p>
     <h4>Some useful info</h4>
     <p>
