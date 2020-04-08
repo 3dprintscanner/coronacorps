@@ -14,7 +14,7 @@
   status = 200
   
 [[redirects]]
-  from = "https://secondtestbranch.coronacorps.com/*"
-  to = "https://heuristic-booth-a831e4.netlify.com/:splat"
+  from = "https://secondtestbranch.coronacorps.com"
+  to = "https://heuristic-booth-a831e4.netlify.com/posts/a-post.html"
   status = 200
   
