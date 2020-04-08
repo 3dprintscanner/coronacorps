@@ -17,5 +17,4 @@
   from = "https://secondtestbranch.coronacorps.com/*"
   to = "https://heuristic-booth-a831e4.netlify.com/:splat"
   status = 200
-  force = true
- 
+  
