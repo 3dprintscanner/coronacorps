@@ -18,10 +18,10 @@ For assistance please fill out the form [here](/assistance)
       <label>Your Last Name *: <input type="text" name="lastname" class="form-input" required /></label>   
     </p>
     <p>
-      <label>Your Email: <input type="email" name="email" class="form-input" required /></label>
+      <label>Your Email *: <input type="email" name="email" class="form-input" required /></label>
     </p>
     <p>
-      <label>Your Contact Number: <input type="tel" name="contact" class="form-input" required /></label>
+      <label>Your Contact Number *: <input type="tel" name="contact" class="form-input" required /></label>
     </p>
     <p>
       <label>Street Name *: <input type="text" name="ward" class="form-input" required /></label>
