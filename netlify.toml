@@ -12,3 +12,9 @@
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
+  
+[[redirects]]
+  from = "https://testbranch.coronacorps.com/*"
+  to = "https://coronacorps.com/posts/:splat"
+  status = 200
+  force = true
