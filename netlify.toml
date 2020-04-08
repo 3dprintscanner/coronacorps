@@ -14,7 +14,7 @@
   status = 200
   
 [[redirects]]
-  from = "https://testbranch.coronacorps.com/*"
+  from = "https://secondtestbranch.coronacorps.com/*"
   to = "https://coronacorps.com/posts/:splat"
   status = 200
   force = true
