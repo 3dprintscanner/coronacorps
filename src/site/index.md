@@ -18,12 +18,20 @@ layout: layouts/base.njk
   We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
   
   More information is available [here](/about)
-  
 
 ## How can I offer support?
   
  - Click [here](/volunteer) to register as a volunteer
  - Share this site with any friends or colleagues who would also be able to help
+
+<br/>
+
+ <a id="donate-link" href="https://opencollective.com/canonbury-mutual-aid-2020/contribute" target="_blank">
+    <img src="https://opencollective.com/canonbury-mutual-aid-2020/contribute/button@2x.png?color=white" width=300 />
+  </a>
+  <br/>
+  <br/>
+  <script src="https://opencollective.com/canonbury-mutual-aid-2020/banner.js"></script>
 
 ## How can I get support?
 
