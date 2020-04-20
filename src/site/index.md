@@ -38,9 +38,11 @@ layout: layouts/base.njk
 
 ## Contact Us
 
+If you know anyone who could use our help please direct them to this group or ask them to get in contact with us:
+
  - [fpmutualaid@gmail.com](mailto:fpmutualaid@gmail.com ) 	📧 
  - [WhatsApp](https://chat.whatsapp.com/EzqWZ4gek5V1fmxO6tuevi) 📲
- - [Phone 07568220254](tel:07568220254) 📞 (Available everyday 9am-9pm )
+ - [Phone 07568220254](tel:07568220254) 📞 (Available everyday 9am-9pm)
  - [Facebook: Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201).
  - Twitter: [@FPCovidSupport](https://twitter.com/FPCovidSupport)
   
