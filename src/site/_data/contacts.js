@@ -57,7 +57,7 @@ module.exports =
         },
         {
             'ward': 'St Peter\'s',
-            'website': 'mailto:StPetersmutualaid@gmail.com',
-            'email': 'StPetersmutualaid@gmail.com'
+            'website': 'http://stpetersmutualaid.tilda.ws/',
+            'email': 'stpetersmutualaid@gmail.com'
         },
     ]
