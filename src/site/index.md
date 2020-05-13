@@ -12,12 +12,15 @@ layout: layouts/base.njk
 <br/>
 
  - Please remember you can register for both
+ 
+## See our main site!
+ - Click [here](https://sites.google.com/canonburymutualaid.com/canonbury-mutual-aid/home)
 
 ## Who are we?
   We are the Canonbury Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
   We are a grassroots community group volunteering support for neighbours during the COVID-19 outbreak.
   
-  More information is available [here](/about)
+  More information is available [here](https://sites.google.com/canonburymutualaid.com/canonbury-mutual-aid/home)
 
 ## How can I offer support?
   
