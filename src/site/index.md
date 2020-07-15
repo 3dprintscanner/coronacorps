@@ -38,4 +38,4 @@ layout: layouts/base.njk
 
  - [Email](mailto:clerkenwellmutualaid@gmail.com) 	📧 
  - [WhatsApp](https://chat.whatsapp.com/JwbuyUUwb6J0sepXEgLShr) 📲
- - [Slack](https://join.slack.com/t/clerkenwellbu-vjp1442/shared_invite/zt-cv2fynw4-aF4sMPZXrnQTiijx6lVoxg) 💻
+ - [Slack](https://join.slack.com/t/clerkenwellbu-vjp1442/shared_invite/zt-f94k3bvn-OnHBAb9auBM5g3PmMrzwKA) 💻
