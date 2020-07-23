@@ -47,7 +47,7 @@ body {
     }
     ;
     @media (min-width: $wide) {
-        width: 700px;
+        width: 860px;
     }
     ;
 }
