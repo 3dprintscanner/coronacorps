@@ -3,8 +3,6 @@ title: Food Projects
 layout: layouts/base.njk
 ---
 
-## Food Projects
-
 If you need support with food, please contact 
 <b> EMAIL:</b>  highburymutualaid@gmail.com
 <b>CALL/TEXT:</b> 07961 703 751
