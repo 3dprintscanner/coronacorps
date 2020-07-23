@@ -2,34 +2,24 @@
 title: Food Projects
 layout: layouts/base.njk
 ---
-<br/>
-<div class="button-container">
-  <button class="bttn-simple bttn-lg bttn-royal"><a href="/volunteer">Offer Support</a></button>
-  
-  <button class="bttn-simple bttn-lg bttn-success"><a href="/support">Get Support</a></button>
-</div>
+
+## Food Projects
+
+If you need support with food, please contact 
+EMAIL:  highburymutualaid@gmail.com
+CALL/TEXT: 07961 703 751
+
+If you would like to donate dried goods, tins, pasta, rice lentils, please drop off at 
+●	Elizabeth House Community Centre, 2, Hurlock St, N5 1ED, Mondays 11 - 3pm.       
+Or EMAIL:  info@elizabeth-house.org.uk   
+Or CALL:020 7690 1300
+If you would like to donate cash go to: [Elizabeth House] (http://elizabeth-house.org.uk/OR) 
+
+●	 Or drop off  at St Joan of Arc RC Church,  60 Highbury Park N5 2XH
+If you would like to donate cash, please pay into their bank account: 
+Sort code: 60-60-04; Account no: 46087141
 
 
-Please note you can register for both - if you are self-isolating, there will be opportunities to volunteer from home.  
-
-Click <a href="https://drive.google.com/file/d/1qoTdlNc70uqNKCTy91ebcNm1Z1bptyJA/view"> this link </a> for Guidelines and guidance for offering and receiving support.
-
-## Who are we?
-  We are the Highbury (East and West) Covid 19 Mutual Aid Group. We are really glad you have expressed an interest in being a part of this community support.
-  We are a grassroots community group volunteering support for neighbours during the COVID-19/corona virus outbreak.
-  
-  More information is available [here](/about)
-  
-  Facebook: [Islington Covid 19 Mutual Aid](https://m.facebook.com/groups/926599381108201)
-  
-  Twitter: [@19support](https://twitter.com/19support)
-  
-  Telegram: Click <a href="https://highbury-mutual-aid-groups.herokuapp.com/"> here </a> to find your Highbury zone  
-
-## How can I offer support?
-  
- - Click [here](/volunteer) to register as a volunteer
- - Share this site with any friends or colleagues who would also be able to help
 
 ## How can I get help?
 
