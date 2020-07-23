@@ -10,9 +10,11 @@ EMAIL:  highburymutualaid@gmail.com
 CALL/TEXT: 07961 703 751
 
 If you would like to donate dried goods, tins, pasta, rice lentils, please drop off at 
-●	Elizabeth House Community Centre, 2, Hurlock St, N5 1ED, Mondays 11 - 3pm.       
+
+●	 Elizabeth House Community Centre, 2, Hurlock St, N5 1ED, Mondays 11 - 3pm.       
 Or EMAIL:  info@elizabeth-house.org.uk   
 Or CALL:020 7690 1300
+
 If you would like to donate cash go to: [Elizabeth House] (http://elizabeth-house.org.uk/OR) 
 
 ●	 Or drop off  at St Joan of Arc RC Church,  60 Highbury Park N5 2XH
