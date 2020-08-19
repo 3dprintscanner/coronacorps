@@ -5,7 +5,9 @@ layout: layouts/base.njk
 
 If you need support with food, please contact 
 <b> EMAIL:</b>  highburymutualaid@gmail.com
-<b>CALL/TEXT:</b> 07961 703 751
+<b> CALL/TEXT:</b> 07961 703 751
+
+The council also run the <b> WeAreIslington </b> helpline, please contact them regarding food vouchers, deliveries or financial help on 020 7527 8222. 
 
 If you would like to donate dried goods, tins, pasta, rice lentils, please drop off at 
 
@@ -21,6 +23,7 @@ If you would like to donate cash go to: [Elizabeth House] (http://elizabeth-hous
 
 If you would like to donate cash, please pay into their bank account: 
 Sort code: 60-60-04; Account no: 46087141
+
 
 
 ## Contact Us
