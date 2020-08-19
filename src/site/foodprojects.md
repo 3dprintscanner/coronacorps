@@ -3,9 +3,10 @@ title: Food Projects
 layout: layouts/base.njk
 ---
 
-If you need support with food, please contact 
-<b> EMAIL:</b>  highburymutualaid@gmail.com
-<b> CALL/TEXT:</b> 07961 703 751
+If you need support with food, please contact:
+
+<br><b> EMAIL:</b>  highburymutualaid@gmail.com
+<br><b> CALL/TEXT:</b> 07961 703 751
 
 The council also run the <b> WeAreIslington </b> helpline, please contact them regarding food vouchers, deliveries or financial help on 020 7527 8222. 
 
