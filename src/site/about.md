@@ -34,7 +34,7 @@ Thank you for being part of such a great community. We are overwhelmed and reall
 
 <br/>
 <div id="news1"></div>
-<script src="/PDFObject/pdfobject.js"></script>
+<script src="/_includes/PDFObject/pdfobject.js"></script>
 <script>PDFObject.embed("/images/Newsletter_Vol1_July20.pdf", "#news1");</script>
 
  
