@@ -28,3 +28,13 @@ Thank you for being part of such a great community. We are overwhelmed and reall
  - [Telegram](https://t.me/highburycovid19magroup)📲
  - [Phone 07961703751](tel:07961703751) 📞
  - [Twitter](https://twitter.com/19Support)🐦
+ 
+ 
+ ## Our Newsletter
+
+<br/>
+<div id="news1"></div>
+<script src="/PDFObject/pdfobject.js"></script>
+<script>PDFObject.embed("/images/Newsletter_Vol1_July20.pdf", "#news1");</script>
+
+ 
