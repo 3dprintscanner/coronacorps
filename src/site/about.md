@@ -33,6 +33,6 @@ Thank you for being part of such a great community. We are overwhelmed and reall
  ## Our Newsletter
 
 <br/>
-<embed src="/images/Newsletter_Vol1_July20.pdf" type="application/pdf" width="100%" height="auto">
+<embed src="/images/Newsletter_Vol1_July20.pdf" type="application/pdf" width="100%" height="600px">
 If your browser does not support PDFs the link to the above newsletter is <a href="/images/Newsletter_Vol1_July20.pdf"> here </a>
 
