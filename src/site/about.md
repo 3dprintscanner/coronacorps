@@ -33,8 +33,6 @@ Thank you for being part of such a great community. We are overwhelmed and reall
  ## Our Newsletter
 
 <br/>
-<div id="news1"></div>
-<script src="/_includes/PDFObject/pdfobject.js"></script>
-<script>PDFObject.embed("/images/Newsletter_Vol1_July20.pdf", "#news1");</script>
+<embed src="/images/Newsletter_Vol1_July20.pdf" type="application/pdf" width="100%" height="100%">
+If your browser does not support PDFs the link to the above newsletter is <a href="/images/Newsletter_Vol1_July20.pdf"> here </a>
 
- 
