@@ -25,7 +25,10 @@ If you would like to donate cash go to: [Elizabeth House] (http://elizabeth-hous
 If you would like to donate cash, please pay into their bank account: 
 Sort code: 60-60-04; Account no: 46087141
 
-
+## Graphics
+<br/>
+<a href="https://drive.google.com/file/d/1EI9RH4_IGA1f8ypfZxaOaLuy7xDDv9bT/view?usp=sharing"> <img src="/images/HMAG_NovPoster2.jpg" alt="drawing" width="100%" height="auto" /> </a>
+Link to the above graphic is <a href="https://drive.google.com/file/d/1EI9RH4_IGA1f8ypfZxaOaLuy7xDDv9bT/view?usp=sharing"> here </a>
 
 ## Contact Us
 
